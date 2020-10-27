@@ -10,7 +10,7 @@ import android.view.MenuItem;
 
 public class MainActivity extends AppCompatActivity {
     //aqui posso setar a visibilidade do grupo de itens do menu.
-   boolean visibilidade=false;
+   boolean visibilidade=true;
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
