@@ -2,6 +2,9 @@
     <string name="app_name">Menu</string>
     <string name="sair">Sair</string>
     <string name="novo">Novo</string>
+    <string name="remover">Remover</string>
+    <string name="visivel">Visivel</string>
+    <string name="invisivel">Invisivel</string>
     <string name="title_activity_segunda">SegundaActivity</string>
     <!-- Strings used for fragments for navigation -->
     <string name="first_fragment_label">First Fragment</string>
